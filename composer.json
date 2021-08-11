@@ -1,0 +1,14 @@
+{
+  "name": "avoineoy/textformatter-video-embed",
+  "description": "ProcessWire Textformatter module that enables translation of YouTube or Vimeo URLs to full embed codes, resulting in a viewable video in textarea fields you apply it to.",
+  "type": "pw-module",
+  "authors": [
+    {
+      "name": "Ryan Cramer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "wireframe-framework/processwire-composer-installer": "^1.0.0"
+  }
+}
